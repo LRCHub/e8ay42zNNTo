@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "心を照らせ！",
+  "base_artist": "チョーキューメイ",
+  "createdAt": "2026-03-04T08:38:19.176850Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心を照らせ!",
+      "artist": "チョーキューメイ",
+      "has_synced": false,
+      "path": "select/pl_01_心を照らせ!_チョーキューメイ.txt"
+    }
+  ]
+}
